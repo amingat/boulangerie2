@@ -48,11 +48,7 @@ BAD_DIR    = ASSETS_DIR / "Mauvais Pain"
 GOOD_DIR   = ASSETS_DIR / "Bon pain"
 
 # --- PDF à ouvrir (placé à la racine du repo / bundle) ---
-<<<<<<< HEAD
 PDF_FILENAME = "CV - Arnaud MINGAT - Alternance -Développeur GenAI.pdf"
-=======
-PDF_FILENAME = "CV_LOLA.pdf"
->>>>>>> 6f46450 (Initial commit)
 
 BASE_THUMB_W = 240
 BASE_THUMB_H = 300
