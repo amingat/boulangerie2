@@ -9,7 +9,7 @@ a = Analysis(
     binaries=[],
     datas=[
         ('assets', 'assets'),
-        ('CV - Arnaud MINGAT - Alternance -Développeur GenAI.pdf', '.'),
+        ('CV_LOLA.pdf', '.'),
     ],
     hiddenimports=[],
     hookspath=[],
